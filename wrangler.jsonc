@@ -120,7 +120,7 @@
   // ▶ 方案 A：KV（默认启用，免费额度大、最通用）
   //  "kv_namespaces": [{ "binding": "KV" }],
   //
-   ▶ 方案 B：D1（关系型，可与 Go 后端共享库）
+  // ▶ 方案 B：D1（关系型，可与 Go 后端共享库）
   "d1_databases": [
      { "binding": "DB", "database_name": "openlist", "database_id": "971296a5-056e-4bd4-8467-a43059bbccfe" }
   ],
